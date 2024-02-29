@@ -1,1 +1,1 @@
-# python_pr
+My university exercises
